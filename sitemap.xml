@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://captaintiz.github.io/thestoryteller/post/testing_firstEntry/</loc>
+    <lastmod>2017-01-30T02:31:33-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://captaintiz.github.io/thestoryteller/tags/</loc>
+    <lastmod>2017-01-30T02:31:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://captaintiz.github.io/thestoryteller/categories/</loc>
+    <lastmod>2017-01-30T02:31:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://captaintiz.github.io/thestoryteller/</loc>
+    <lastmod>2017-01-30T02:31:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://captaintiz.github.io/thestoryteller/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://captaintiz.github.io/thestoryteller/post/</loc>
+    <lastmod>2017-01-30T02:31:33-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://captaintiz.github.io/thestoryteller/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

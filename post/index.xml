@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on After Dark</title>
+    <link>https://captaintiz.github.io/thestoryteller/post/index.xml</link>
+    <description>Recent content in Posts on After Dark</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 30 Jan 2017 02:31:33 -0500</lastBuildDate>
+    <atom:link href="https://captaintiz.github.io/thestoryteller/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>testing_firstEntry</title>
+      <link>https://captaintiz.github.io/thestoryteller/post/testing_firstEntry/</link>
+      <pubDate>Mon, 30 Jan 2017 02:31:33 -0500</pubDate>
+      
+      <guid>https://captaintiz.github.io/thestoryteller/post/testing_firstEntry/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Testing&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
